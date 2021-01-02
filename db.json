@@ -1,0 +1,188 @@
+{
+    "produttori": [
+        {
+            "id": "0",
+            "marchio": "Samsung",
+            "modelli": [
+                {
+                    "id": "00",
+                    "modello": "SGH-D700",
+                    "Data di rilascio": "2003",
+                    "Design": {
+                        "Dimensioni": "89 x 49 x 23 mm",
+                        "Peso": "110 grammi",
+                        "Antenna": "Fissa"
+                    },
+                    "Produttività": {
+                        "OS": "Symbian, Series 60 UI",
+                        "Chipset": null,
+                        "CPU": "104 MHz ARM 920T",
+                        "Scheda di memoria esterna": "MMC",
+                        "Memoria interna": "16 MB"
+                    },
+                    "Batteria": {
+                        "Tipo": "Litio",
+                        "Capacità": "800 mAh",
+                        "Rimovibile": true,
+                        "durata": {"standby": "110 ore", "in chiamata": "4 ore"},
+                        "Ricarica Wireless": null,
+                        "Ricarica rapida": null
+                    },
+                    "Display":{
+                        "Risoluzione": "176 x 208 px",
+                        "Tecnologia": "TFT",
+                        "Touch screen": null,
+                        "Profondità di colore": "65K"
+                    },
+                    "Fotocamera": {
+                        "Fotocamera posteriore": {"MP": "0.3", "numero fotocamere": 1},
+                        "Fotocamera frontale": null,
+                        "Registrazione video": true
+                    },
+                    "Connettività e comunicazione": {
+                        "SIM Card": {"Formato": "Mini-SIM", "Dual-SIM": false},
+                        "Rete mobile": {
+                            "2G": "GSM / GPRS",
+                            "3G": null,
+                            "4G": null,
+                            "5G": null
+                        },
+                        "Wi-Fi": null,
+                        "Bluetooth": null,
+                        "USB": null,
+                        "NFC": null,
+                        "IR Blaster": null,
+                        "IrDa": true,
+                        "ANT+": null
+                    },
+                    "Sensori":{
+                        "GPS": null,
+                        "Bussola digitale": null,
+                        "Accelerometro": null,
+                        "Giroscopio": null,
+                        "Prossimità": null,
+                        "Hall": null,
+                        "Luce ambiente": null,
+                        "Barometro": null,
+                        "Cardiofrequenzimetro": null,
+                        "Lettore impronte": null,
+                        "Lettore iride": null,
+                        "Face ID": null
+                    },
+                    "Funzioni multimediali": {
+                        "Riproduzione MP3": null,
+                        "Radio FM": null,
+                        "Sintonizzatore TV": null,
+                        "Altoparlanti Stereo": null,
+                        "Supporto DLNA": null,
+                        "Uscite Audio": null,
+                        "Uscite video": null,
+                        "Uscite video HDMI": null
+                    },
+                    "Altre caratteristiche": {
+                        "Messaggistica": ["SMS","EMS","MMS","Email"],
+                        "Funzioni vocali": ["Memo","Dial","Command"],
+                        "Suonerie polifoniche": "40 toni",
+                        "Scrittura facilitata": "T9",
+                        "Vibrazione": true,
+                        "Vivavoce": true,
+                        "Giochi": true,
+                        "Torcia": false,
+                        "WAP": "2.0",
+                        "Modalità aereo": false,
+                        "Java": true
+                    }
+                },
+                {
+                    "id": "01",
+                    "modello": "SGH-D710",
+                    "Data di rilascio": "2004",
+                    "Design": {
+                        "Dimensioni": "101 x 51 x 24 mm",
+                        "Peso": "110 grammi",
+                        "Antenna": "Fissa"
+                    },
+                    "Produttività": {
+                        "OS": "Symbian 7.0s, Series 60 UI",
+                        "Chipset": "TI OMAP 5910",
+                        "CPU": "192 MHz ARM925T",
+                        "Scheda di memoria esterna": "RS-MMC",
+                        "Memoria interna": {"RAM": "64MB", "ROM": "32MB"}
+                    },
+                    "Batteria": {
+                        "Tipo": "Litio",
+                        "Capacità": null,
+                        "Rimovibile": true,
+                        "durata": null,
+                        "Ricarica Wireless": null,
+                        "Ricarica rapida": null
+                    },
+                    "Display":{
+                        "Risoluzione": "176 x 208 px",
+                        "Tecnologia": "TFT",
+                        "Touch screen": null,
+                        "Profondità di colore": "256K"
+                    },
+                    "Fotocamera": {
+                        "Fotocamera posteriore": {"MP": "1", "numero fotocamere": 1},
+                        "Fotocamera frontale": null,
+                        "Registrazione video": true
+                    },
+                    "Connettività e comunicazione": {
+                        "SIM Card": {"Formato": "Mini-SIM", "Dual-SIM": false},
+                        "Rete mobile": {
+                            "2G": "GSM / GPRS",
+                            "3G": null,
+                            "4G": null,
+                            "5G": null
+                        },
+                        "Wi-Fi": null,
+                        "Bluetooth": true,
+                        "USB": null,
+                        "NFC": null,
+                        "IR Blaster": null,
+                        "IrDa": true,
+                        "ANT+": null
+                    },
+                    "Sensori":{
+                        "GPS": null,
+                        "Bussola digitale": null,
+                        "Accelerometro": null,
+                        "Giroscopio": null,
+                        "Prossimità": null,
+                        "Hall": null,
+                        "Luce ambiente": null,
+                        "Barometro": null,
+                        "Cardiofrequenzimetro": null,
+                        "Lettore impronte": null,
+                        "Lettore iride": null,
+                        "Face ID": null
+                    },
+                    "Funzioni multimediali": {
+                        "Riproduzione MP3": null,
+                        "Radio FM": null,
+                        "Sintonizzatore TV": null,
+                        "Altoparlanti Stereo": null,
+                        "Supporto DLNA": null,
+                        "Uscite Audio": null,
+                        "Uscite video": null,
+                        "Uscite video HDMI": null
+                    },
+                    "Altre caratteristiche": {
+                        "Messaggistica": ["SMS","EMS","MMS","Email"],
+                        "Funzioni vocali": ["Memo","Dial","Command"],
+                        "Suonerie polifoniche": "64 toni",
+                        "Scrittura facilitata": "T9",
+                        "Vibrazione": true,
+                        "Vivavoce": true,
+                        "Giochi": true,
+                        "Torcia": true,
+                        "WAP": "2.0",
+                        "Modalità aereo": false,
+                        "Java": true
+                    }
+                }
+            ]
+        }
+    ]
+}
