@@ -1,0 +1,23 @@
+{
+  "name": "mobile-phone-api",
+  "version": "1.0.0",
+  "description": "API of all mobile phones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samu901/mobile-phone-api.git"
+  },
+  "author": "Samuele Scapellato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samu901/mobile-phone-api/issues"
+  },
+  "homepage": "https://github.com/samu901/mobile-phone-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
